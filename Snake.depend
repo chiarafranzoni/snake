@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697479288 source:c:\users\chiar\desktop\elementi di informatica e programmazione - ripasso c e assembly\projects\snake\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
